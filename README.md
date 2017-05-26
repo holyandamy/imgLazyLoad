@@ -20,5 +20,4 @@
 
 	ps ：暂时还未兼容IE9哟；兼容ie 10+
   
-  554096147@qq.com || llandpp11@gmail.com
 # imgLazyLoad
